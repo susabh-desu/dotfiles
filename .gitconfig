@@ -1,0 +1,9 @@
+[user]
+	name = Susabh Gautam
+	email = susabh@disroot.org
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[core]
+	editor = vim
